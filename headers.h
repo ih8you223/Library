@@ -1,0 +1,12 @@
+#pragma once
+#include "book.h"
+#include "reader.h"
+#include "display_the_books.h"
+#include "display_readers.h"
+#include "find_book.h"
+#include "find_reader.h"
+#include "add_book.h"
+#include "add_reader.h"
+#include "see_reader_books.h"
+#include "hand_out_the_book.h"
+#include "return_reader_book.h"
